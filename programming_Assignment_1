@@ -28,7 +28,7 @@ ans:
 a=10
 b=20
 temp=0
-print("Befor swapping")
+print("Before swapping")
 print("First Number",a)
 print("Second Number",b)
 temp=b
