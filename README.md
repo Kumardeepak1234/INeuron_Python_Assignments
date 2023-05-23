@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-## ineuron
-python Assignment
-python Basic(25)
-python advanced(25)
+# ineuron_python_Assignments
+In this repository I will share all ineuron python basic assessments included programming assignments
 
